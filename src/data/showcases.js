@@ -683,6 +683,14 @@ const Showcases = [
     source: null,
     tags: ["tokens", "nft"],
   },
+  {
+  title: "Cozy Space CNFT",
+  description: "Animated Cozy Tokens on Cardano's Blockchain",
+  preview: require("./showcase/cozy-space-cnft.png"),
+  website: "https://cozytokens.io",
+  source: null,
+  tags: ["nft"],
+  }
 ];
 
 export const TagList = Object.keys(Tags);
